@@ -6,4 +6,6 @@ demo here :
 - Admin : https://51.77.214.183/EXPERIMENTS/votstamp/admin.html
 
 ## Installation
-copy paste this repo in your plateformio directory
+copy paste this repo in your platformio directory
+- upload program
+- upload data to Spiffs
