@@ -12,5 +12,7 @@ Copy paste this repo in your platformio project directory
 
 ## Android App
 This android app is made with appinventor, sources are inside the application folder.
+
 Here the code to build your own app:
+
 ![code](/images/apinventor_code.png)
