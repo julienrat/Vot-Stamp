@@ -10,7 +10,7 @@ Copy paste this repo in your platformio project directory
 - upload program
 - upload data to Spiffs
 
-## Android App
+## Android App (transfert SMS to Vot'Stamp)
 This android app is made with appinventor, sources are inside the application folder.
 
 Here the code to build your own app:
